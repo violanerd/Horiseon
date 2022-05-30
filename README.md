@@ -15,6 +15,10 @@ Challenges included figuring out how the CSS affected the HTML, specific best us
 ## Website
 Visit the [project](https://violanerd.github.io/Horiseon/)
 
+<a href="https://violanerd.github.io/Horiseon/">
+<img src="./assets/images/image.png" alt="Snapshot of Horiseon website">
+</a>
+
 ## Contribution
 
 Refracted by Madalyne Cross
