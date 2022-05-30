@@ -12,6 +12,17 @@ body p{
         font-size: 16px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Header Style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +61,7 @@ body p{
     text-decoration: none;
 }
 
+/* Style the Hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +71,32 @@ body p{
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/*Style what-we-do section */
 #what-we-do {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+#what-we-do img {
+    max-height: 200px;
+}
+
+#what-we-do h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Style benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,25 +124,7 @@ body p{
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#what-we-do img {
-    max-height: 200px;
-}
-
-#what-we-do h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
+/*Footer Style*/
 .footer {
     padding: 30px;
     clear: both;
