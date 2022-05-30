@@ -13,7 +13,7 @@ Challenges included figuring out how the CSS affected the HTML, specific best us
   
 
 ## Website
-To visit the project: https://violanerd.github.io/Horiseon/
+Visit the [project](https://violanerd.github.io/Horiseon/)
 
 ## Contribution
 
