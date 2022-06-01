@@ -61,14 +61,14 @@ body p{
     background-position: center;
 }
 
-/* Style what-we-do section */
+/* Style what-we-do/about-us section */
 #what-we-do {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.about-us {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -77,11 +77,11 @@ body p{
     color: #ffffff;
 }
 
-#what-we-do img {
+.about-us img {
     max-height: 200px;
 }
 
-#what-we-do h2 {
+.about-us h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
